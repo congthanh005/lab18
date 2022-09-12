@@ -1,0 +1,22 @@
+/* .bg-img1 {
+  display: block;
+  background-image: url(/man-hinh-iphone-14-pro-xtmobile.jpg);
+  width: 100%;
+}
+
+.bg-img2 {
+  display: block;
+  width: 100%;
+  background-image: url(/iphone-14-pro-ro-ri-anh-tren-tay-didongviet-1.jpg);
+}
+
+.bg-img3 {
+  display: block;
+  width: 100%;
+  background-image: url(/Anh-Chup-Man-Hinh-20-01.png);
+} */
+.header::before {
+  display: block;
+  content: "";
+  height: 55px;
+}
